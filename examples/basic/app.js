@@ -2,9 +2,9 @@
 
 var MicroGear = require('microgear');
 
-const KEY    = <APPKEY>;
-const SECRET = <APPSECRET>;
-const APPID     = <APPID>;
+const KEY    = <hGCHSVuHP92G1Xk>;
+const SECRET = <IdLciZCa6M4SHjmc7Edt2NE64>;
+const APPID     = <Unbalance>;
 
 var microgear = MicroGear.create({
     key : KEY,
